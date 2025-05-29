@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+
+.container-fluid{
+    background-color: #a9d6e5;
+}
+h1{
+    text-align: center;
+    font-family: Oooh Baby;
+}
+
+h6{
+    text-align: center;
+    font-family: 'Red Hat Display';
+}
+
+.fundo{
+    background-color: #a9d6e5;
+}
