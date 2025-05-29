@@ -43,6 +43,3 @@
   <a href="page2.php" class="next-arrow">→</a>
 </body>
 </html>
-
-
-oi
