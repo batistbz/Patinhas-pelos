@@ -10,6 +10,7 @@
     <div class="image">
       <img src="img/sagrado2.jpg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h1>Sagrado da Birmânia</h1>
       <p>Conhecido como gato Sagrado da Birmânia ou Birmanês,<br> essa raça é, até onde se sabe, descendente dos gatos que eram <br>venerados entre o século XV e XVI como deuses nos templos budistas <br>da Birmânia, onde atualmente é o Myanmar. Acredita-se que a raça chegou <br> na França por volta de 1920 e nos Estados Unidos em torno dos anos 30. <br>É um gato muito sensível e dócil, que se apega muito à família, mas que <br> não gosta tanto de estranhos. É considerado um gato muito elegante e, <br>apesar de gostar de brincadeiras, prefere ficar ao nível do chão <br>e não nas alturas (como a maioria dos felinos).</p>
