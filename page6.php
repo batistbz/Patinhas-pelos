@@ -12,6 +12,7 @@
     <div class="image">
       <img src="image/corgi.jpeg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h2>Welsh <b>Corgi</b> Cardigan</h2>
       <p>Conhecido no mundo inteiro como o “cão da rainha”, o Pembroke Welsh Corgi chama a atenção por suas orelhas bem compridas e seu rabo quase que ausente. Curioso e forte, este cãozinho de patas curtas costuma ser destemido e bastante ativo, com um latido surpreendente. Criado para pastorear gados no século XI, o corgi ganhou popularidade por ser a raça favorita da Rainha Elizabeth II, quem até hoje frequentemente aparece acompanhada de pelo menos um exemplar da raça.</p>
