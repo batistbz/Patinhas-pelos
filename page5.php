@@ -12,6 +12,7 @@
     <div class="image">
       <img src="image/alemao.jpg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h2>Dogue Alemão</h2>
       <p>De origem alemã, como seu nome já indica, o Dogue Alemão também é conhecido em alguns países por “cachorro dinamarquês”. Utilizado nos séculos anteriores como cão de caça e cão de guerra, ele continua com muitos instintos do gênero e por isso sofre com a reputação de ser um cão agressivo. Na verdade, o Dogue Alemão é um cachorro dócil e é um incrível companheiro. Eles se tornaram muito populares recentemente, apesar de todas as dificuldades que implicam em criar um cachorro de porte gigante.</p>
