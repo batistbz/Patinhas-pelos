@@ -12,6 +12,7 @@
     <div class="image">
       <img src="image/boiadeiro.jpg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h2>Boiadeiro Australiano</h2>
       <p>O boiadeiro australiano, também conhecido como australian cattle dog e blue heeler, é um cachorro de pastoreio muito resistente e ativo, mas também leal e companheiro. Criado para suportar as condições extremas do terreno australiano, ele é quase como um cão raposa, e pode se comportar como uma às vezes – ele pode querer caçar pequenos animais ou enterrar ossos e outras coisas no seu quintal!
