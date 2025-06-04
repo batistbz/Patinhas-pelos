@@ -30,6 +30,7 @@
   </div>
 </nav>
 <div class="fundo">
+  <!-- a partir daqui temos a imagem e uma breve apresentação -->
       <img src="img/patas.pelos.png" class="d-block w-100" alt="...">
         <br>
     <h1>🐾 Conheça mais sobre seu pet! 🐾</h1>
