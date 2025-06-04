@@ -12,6 +12,7 @@
     <div class="image">
       <img src="img/munchkin.jpg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h1>Munchkin</h1>
       <p>Conhecido como “gato anão”, o Munchkin é um gato de pernas curtas -<br> a perna dessa raça costuma ter metade do tamanho esperado em um gato comum -<br> e eles têm as costas geralmente um pouco mais longas. Ele é frequentemente comparado <br>com a raça de cães dachshund. É muito comum vê-los andando com as pernas dianteiras recolhidas, já que as patas traseiras costumam ser um pouco maiores. Além de sua aparência exótica, os gatos da raça Munchkin são muito amáveis, doces e inteligentes, que gostam de demonstrar seu afeto.</p>
