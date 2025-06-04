@@ -12,6 +12,7 @@
     <div class="image">
       <img src="img/Sphynx.jpeg" alt="Imagem 1" />
     </div>
+    <!-- aqui começa a sequência de fotos e textos sobre as raças -->
     <div class="text">
       <h1>Sphynx</h1>
       <p>Olhos grandes, orelhas pontudas e rosto afinado: esse é o Sphynx, um gato único! Os gatos da raça Sphynx podem causar certa estranheza quando os vemos pela primeira vez, mas essa aparência diferente dos demais gatos não interfere em nada, é um gatinho como qualquer outro em termos de comportamento. Eles são muito carinhosos e brincalhões, mas são bastante desajeitados. Engana-se quem pensa que por serem desajeitados eles são gatinhos parados, eles gostam mesmo é de pular e brincar. Os Sphynx surgiram devido a uma mutação de genes e sua característica mais marcante, a falta de pelos, se dá devido a isto. Por se tornarem muito populares, a raça foi mantida e, hoje, são bastante conhecidos.</p>
