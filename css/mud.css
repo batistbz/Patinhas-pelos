@@ -76,3 +76,5 @@ button:before {
 button:-webkit-details-marker {
   display: none;
 }
+
+/* todos estes "button" são alterações após serem clicados */
